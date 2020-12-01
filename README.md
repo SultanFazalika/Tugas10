@@ -154,3 +154,6 @@ Terakhir kita akan mencetak hasil dari program yang telah dibuat
 
 ![n2](foto/n2.png)
 
+Hasil Flowchart seperti berikut ini :
+
+![n3](foto/n3.png)
